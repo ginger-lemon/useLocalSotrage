@@ -1,6 +1,6 @@
 # useLocalSotrage
 
-Record wrrting/using the custom hook in the side project.
+Record writing/using the custom hook in the side project.
 
 Thanks for:
 
